@@ -7,7 +7,7 @@ class Footer extends HTMLElement {
         this.innerHTML = `
 
         <footer>
-            <p class="text-center">Copyright &copy; 2020</p>
+            <p class="text-center">Copyright &copy; 2022</p>
         </footer>
         `;
     }
