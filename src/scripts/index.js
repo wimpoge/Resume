@@ -1,0 +1,10 @@
+import "regenerator-runtime";
+import "../styles/style.css";
+import "../styles/home.css";
+import "../styles/skill.css";
+import "../styles/project.css";
+import "../scripts/components/nav-bar";
+import "../scripts/components/foo-ter";
+import "../scripts/view/pages/home";
+import "../scripts/view/pages/project";
+import "../scripts/view/pages/skill";
